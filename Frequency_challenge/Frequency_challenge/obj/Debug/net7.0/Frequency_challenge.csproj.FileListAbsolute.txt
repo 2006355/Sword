@@ -1,0 +1,15 @@
+/Users/jonathanadams/Projects/Frequency_challenge/Frequency_challenge/obj/Debug/net7.0/Frequency_challenge.csproj.AssemblyReference.cache
+/Users/jonathanadams/Projects/Frequency_challenge/Frequency_challenge/obj/Debug/net7.0/Frequency_challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathanadams/Projects/Frequency_challenge/Frequency_challenge/obj/Debug/net7.0/Frequency_challenge.AssemblyInfoInputs.cache
+/Users/jonathanadams/Projects/Frequency_challenge/Frequency_challenge/obj/Debug/net7.0/Frequency_challenge.AssemblyInfo.cs
+/Users/jonathanadams/Projects/Frequency_challenge/Frequency_challenge/obj/Debug/net7.0/Frequency_challenge.csproj.CoreCompileInputs.cache
+/Users/jonathanadams/Projects/Frequency_challenge/Frequency_challenge/bin/Debug/net7.0/Frequency_challenge
+/Users/jonathanadams/Projects/Frequency_challenge/Frequency_challenge/bin/Debug/net7.0/Frequency_challenge.deps.json
+/Users/jonathanadams/Projects/Frequency_challenge/Frequency_challenge/bin/Debug/net7.0/Frequency_challenge.runtimeconfig.json
+/Users/jonathanadams/Projects/Frequency_challenge/Frequency_challenge/bin/Debug/net7.0/Frequency_challenge.dll
+/Users/jonathanadams/Projects/Frequency_challenge/Frequency_challenge/bin/Debug/net7.0/Frequency_challenge.pdb
+/Users/jonathanadams/Projects/Frequency_challenge/Frequency_challenge/obj/Debug/net7.0/Frequency_challenge.dll
+/Users/jonathanadams/Projects/Frequency_challenge/Frequency_challenge/obj/Debug/net7.0/refint/Frequency_challenge.dll
+/Users/jonathanadams/Projects/Frequency_challenge/Frequency_challenge/obj/Debug/net7.0/Frequency_challenge.pdb
+/Users/jonathanadams/Projects/Frequency_challenge/Frequency_challenge/obj/Debug/net7.0/Frequency_challenge.genruntimeconfig.cache
+/Users/jonathanadams/Projects/Frequency_challenge/Frequency_challenge/obj/Debug/net7.0/ref/Frequency_challenge.dll

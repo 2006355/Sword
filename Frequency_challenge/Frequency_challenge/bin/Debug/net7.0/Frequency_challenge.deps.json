@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Frequency_challenge/1.0.0": {
+        "runtime": {
+          "Frequency_challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Frequency_challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
